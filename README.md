@@ -22,4 +22,5 @@ Reactに興味があります。
 ## 👔 採用担当者向け
 
 - [Wantedly](https://www.wantedly.com/id/x7ddf74479jn5_tu)
+- [LAPRAS](https://lapras.com/public/2CGDQZF)
 - [ポートフォリオ](https://pandashark-portfolio.netlify.app/)
