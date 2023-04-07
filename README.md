@@ -15,10 +15,6 @@
 
 Reactに興味があります。
 
-- [ホームページ](https://three-homepage.vercel.app/)
-- [Gist](https://gist.github.com/x7ddf74479jn5)
-- [Twitter](https://twitter.com/pandashark6)
-
 ## 👔 採用担当者向け
 
 - [Wantedly](https://www.wantedly.com/id/x7ddf74479jn5_tu)
